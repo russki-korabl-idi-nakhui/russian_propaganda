@@ -151,3 +151,10 @@ https://checkout.qiwi.com
 https://my.qiwi.com 
 https://oplata.qiwi.com 
 https://p2p.qiwi.com  
+https://minfin.gov.ru  
+https://minjust.gov.ru/  
+https://minenergo.gov.ru/  
+https://mintrud.gov.ru/  
+http://www.minsport.gov.ru/  
+https://minstroyrf.gov.ru/  
+https://digital.gov.ru/  
